@@ -11,7 +11,7 @@ jobs:
     steps:
       -
         name: Checkout
-        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v3.3.0
+        uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3.7.0
       -
         name: Unshallow
         run: git fetch --prune --unshallow
