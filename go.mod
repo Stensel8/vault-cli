@@ -3,7 +3,7 @@ module github.com/previder/vault-cli
 go 1.27
 
 require (
-	github.com/olekukonko/tablewriter v1.1.4
+	github.com/olekukonko/tablewriter v1.1.5
 	github.com/spf13/cobra v1.10.2
 )
 
